@@ -1,0 +1,1245 @@
+
+
+
+
+ 	<script>
+// 	alert('connection successfull');
+	</script>
+
+
+	<script>
+// 	alert('connection failed');
+	</script>
+ 	<table style="text-align:center;"><tr>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td>temp/.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1381</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>362</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td></td>
+	            	             <td> 44574.896527778</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td>temp/.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1380</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>361</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td></td>
+	            	             <td> 44574.896527778</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td>temp/.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1379</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>360</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td></td>
+	            	             <td> 44574.896527778</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td>temp/.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1378</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>359</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td></td>
+	            	             <td> 44574.896527778</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td>temp/.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1377</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>358</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td></td>
+	            	             <td> 44574.896527778</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td>temp/.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1376</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>357</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td></td>
+	            	             <td> 44574.896527778</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td>temp/.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1375</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>356</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td></td>
+	            	             <td> 44574.896527778</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td>temp/.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1374</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>355</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td></td>
+	            	             <td> 44574.896527778</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td>temp/.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1373</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>354</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td></td>
+	            	             <td> 44574.896527778</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td>temp/.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1372</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>353</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td></td>
+	            	             <td> 44574.896527778</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Nikita Sharma</td>
+	            	            <td>8697718095</td>
+	            	            <td>7278154534</td>
+	            	            <td></td>
+	            	            <td>Subhas Nagar Housing Complex A/3 306 Rishra,Hooghly-712249</td>
+	            	            <td>emp_img/data_sanmarg-740-NikitaSharma-nikita photo.jpg</td>
+	            	            <td>36016</td>
+	            	            <td>B- </td>
+	            	            <td></td>
+	            	            <td>100</td>
+	            	            <td>Sales & Marketing </td>
+	            	            <td>Sales Executive</td>
+	            	            
+	            	            <td>44562</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Nikita Sharma.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1371</td>
+	            	            <td>1</td>
+	            	            <td>20</td>
+	            	            <td>352</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td>we343</td>
+	            	            <td>delivered</td>
+	            	             <td> 44630.699305556</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Anwesa Putatunda</td>
+	            	            <td>6289736673</td>
+	            	            <td>8697718094</td>
+	            	            <td></td>
+	            	            <td>East Ukilpara,Baruipur, South 24 Pgs Kol-700144</td>
+	            	            <td>emp_img/data_sanmarg-877-AnwesaPutatunda-anwesa photo.jpg</td>
+	            	            <td>33789</td>
+	            	            <td>AB+</td>
+	            	            <td></td>
+	            	            <td>118</td>
+	            	            <td>Sales & Marketing </td>
+	            	            <td>Sales Executive</td>
+	            	            
+	            	            <td>44562</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Anwesa Putatunda.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1370</td>
+	            	            <td>1</td>
+	            	            <td>3</td>
+	            	            <td>351</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td>checking</td>
+	            	            <td>delivered</td>
+	            	             <td> 44630.699305556</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Ananda Saha</td>
+	            	            <td>9476454730</td>
+	            	            <td>7407750184</td>
+	            	            <td></td>
+	            	            <td>Kanta Nagar, Berhampore, Mursidabad - 742102 </td>
+	            	            <td>emp_img/data_sanmarg-645-AnandaSaha-Ananda Saha.jpg</td>
+	            	            <td>21.11.1970</td>
+	            	            <td>AB+</td>
+	            	            <td></td>
+	            	            <td>20</td>
+	            	            <td>Editorial</td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Ananda Saha.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td></td>
+	            	            <td>1368</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>349</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.901388889</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Rahul Tiwari</td>
+	            	            <td>8759534900</td>
+	            	            <td>8798154352</td>
+	            	            <td></td>
+	            	            <td>7. S.B. Raha Lane, Asansol - 713301</td>
+	            	            <td>emp_img/data_sanmarg-577-RahulTiwari-Rahul Tiwari.jpeg</td>
+	            	            <td>25.02.1993</td>
+	            	            <td>O+</td>
+	            	            <td></td>
+	            	            <td>19</td>
+	            	            <td>Editorial</td>
+	            	            <td>Photographer</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Rahul Tiwari.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td></td>
+	            	            <td>1367</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>348</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.901388889</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Rajesh Bhakat</td>
+	            	            <td>9474620043</td>
+	            	            <td>8372978716</td>
+	            	            <td></td>
+	            	            <td>C/o Bhakat Bhai road, DIST- Bolpur Birbhum-Pin..731204</td>
+	            	            <td>emp_img/data_sanmarg-130-RajeshBhakat-Rajesh Bhagat.jpg</td>
+	            	            <td>06.12.1893</td>
+	            	            <td>O+</td>
+	            	            <td></td>
+	            	            <td>18</td>
+	            	            <td>Editorial</td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Rajesh Bhakat.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td></td>
+	            	            <td>1366</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>347</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.901388889</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Ramesh â€Bharti</td>
+	            	            <td>9474701095</td>
+	            	            <td>8768969511</td>
+	            	            <td></td>
+	            	            <td>Parbelia   Colliery,  PS+PS- Neturia,  Dist-Purulia W.B, Pin 723121</td>
+	            	            <td></td>
+	            	            <td>09.07.1965</td>
+	            	            <td>A-</td>
+	            	            <td></td>
+	            	            <td>17</td>
+	            	            <td>Editorial</td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Ramesh â€Bharti.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td></td>
+	            	            <td>1365</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>346</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.901388889</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Santosh kumar Mandal</td>
+	            	            <td>9641130254</td>
+	            	            <td>9332306299</td>
+	            	            <td></td>
+	            	            <td>Pari mahal near lokenath medical store gurunanak pally ismile, _x000D_
+Asansol  -713301, Dist. Paschim Barddham</td>
+	            	            <td>emp_img/data_sanmarg-830-SantoshkumarMandal-Santosh Kumar Mondal.jpeg</td>
+	            	            <td>20.07.1976</td>
+	            	            <td>O+</td>
+	            	            <td></td>
+	            	            <td>16</td>
+	            	            <td>Editorial</td>
+	            	            <td>Photographer</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Santosh kumar Mandal.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td></td>
+	            	            <td>1364</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>345</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.901388889</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>SANJOY KARMAKAR</td>
+	            	            <td>9332933348</td>
+	            	            <td>8900058855</td>
+	            	            <td></td>
+	            	            <td>Chotonilpur, Mirchhoba, Natun Coloni, P.O. - Sripally, _x000D_
+Dist. - Purba Bardhaman, Pin - 713103, West Beng</td>
+	            	            <td>emp_img/data_sanmarg-712-SANJOYKARMAKAR-SANJOY KARMAKAR.jpeg</td>
+	            	            <td>09.06.1982</td>
+	            	            <td>A+</td>
+	            	            <td></td>
+	            	            <td>15</td>
+	            	            <td>Editorial</td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/SANJOY KARMAKAR.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td></td>
+	            	            <td>1363</td>
+	            	            <td>0</td>
+	            	            <td>4</td>
+	            	            <td>344</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.901388889</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Satyendra Kumar Shah</td>
+	            	            <td>7001948116</td>
+	            	            <td>8918681143</td>
+	            	            <td></td>
+	            	            <td>North Canal par, Panagarh Bazar, _x000D_
+Dist- West Barddhaman , Pin-713148, West Bengal </td>
+	            	            <td>emp_img/data_sanmarg-298-SatyendraKumarShah-Satyendra Kumar Shah.jpg</td>
+	            	            <td>01.05.1985</td>
+	            	            <td>O+</td>
+	            	            <td></td>
+	            	            <td>14</td>
+	            	            <td>Editorial</td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Satyendra Kumar Shah.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td></td>
+	            	            <td>1362</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>343</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.901388889</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>SANJAY SINGH</td>
+	            	            <td>9609200140</td>
+	            	            <td>8597888988</td>
+	            	            <td></td>
+	            	            <td>S/O Sri Rajesh Singh, Bahula Bazar, P.O. Bahula, Paschim Burdwan_x000D_
+PIN - 713322 (West Bengal) </td>
+	            	            <td>emp_img/data_sanmarg-467-SANJAYSINGH-SANJAY SINGH.jpg</td>
+	            	            <td>20.05.1977</td>
+	            	            <td>B+e</td>
+	            	            <td></td>
+	            	            <td>13</td>
+	            	            <td>Editorial</td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/SANJAY SINGH.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td></td>
+	            	            <td>1361</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>342</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.901388889</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>JEETENDRA KUMAR MISHRA</td>
+	            	            <td>7908886398</td>
+	            	            <td>6297484370</td>
+	            	            <td></td>
+	            	            <td>RIPOTING PLACE- SANCTODIA, CHINAKURI BAZAR,POST - R.R.C_x000D_
+P.S KULTI, DIST-PASHCHIM BURDWAN</td>
+	            	            <td>emp_img/data_sanmarg-954-JEETENDRAKUMARMISHRA-JEETENDRA KUMAR MISHRA.jpg</td>
+	            	            <td>12.06.1974</td>
+	            	            <td>O -</td>
+	            	            <td></td>
+	            	            <td>12</td>
+	            	            <td>Editorial</td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/JEETENDRA KUMAR MISHRA.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td></td>
+	            	            <td>1360</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>341</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.901388889</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Surendra Prasad  Singh</td>
+	            	            <td>9732298373</td>
+	            	            <td>7584906996</td>
+	            	            <td></td>
+	            	            <td>East town,babu para, kulti, P.o--kulti,Dist--pashim burdwan (W.B)</td>
+	            	            <td>emp_img/data_sanmarg-881-SurendraPrasadSingh-Surendra prasad singh.jpg</td>
+	            	            <td>16.06.1964</td>
+	            	            <td>O+</td>
+	            	            <td></td>
+	            	            <td>11</td>
+	            	            <td>Editorial</td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Surendra Prasad  Singh.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td></td>
+	            	            <td>1359</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>340</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.901388889</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Imtyaz Alam</td>
+	            	            <td>8798192953</td>
+	            	            <td>7001868379</td>
+	            	            <td></td>
+	            	            <td>Durgapur Naim Nagar, Paschim Burdwan </td>
+	            	            <td></td>
+	            	            <td>01.01.1982</td>
+	            	            <td>B+</td>
+	            	            <td></td>
+	            	            <td>10</td>
+	            	            <td>Editorial</td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Imtyaz Alam.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td></td>
+	            	            <td>1358</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>339</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.901388889</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Dhananjay Pathak</td>
+	            	            <td>8637083485</td>
+	            	            <td>9333303102</td>
+	            	            <td></td>
+	            	            <td>Jamudia, Dist- Paschim Burdwan, Pin â€“ 713336</td>
+	            	            <td>emp_img/data_sanmarg-690-DhananjayPathak-Dhananjay Pathak.jpg</td>
+	            	            <td>01.01.1980</td>
+	            	            <td>O -</td>
+	            	            <td></td>
+	            	            <td>9</td>
+	            	            <td>Editorial</td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Dhananjay Pathak.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td></td>
+	            	            <td>1357</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>338</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.902083333</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Md. Kalamuddin</td>
+	            	            <td>8101388042</td>
+	            	            <td>9002113910</td>
+	            	            <td></td>
+	            	            <td>Officer Colony, PO : Kanyapur, Dist. Paschim Bardhaman 713341</td>
+	            	            <td>emp_img/data_sanmarg-918-Md.Kalamuddin-Md. Kalamuddin.jpg</td>
+	            	            <td>02.12.1976</td>
+	            	            <td>O + </td>
+	            	            <td></td>
+	            	            <td>8</td>
+	            	            <td>Editorial </td>
+	            	            <td>Pagenator</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Md. Kalamuddin.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1356</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>337</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.902083333</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Abhay  Giri</td>
+	            	            <td>7908099781</td>
+	            	            <td>6295170787</td>
+	            	            <td></td>
+	            	            <td>South Dhadka Road, Near Sugam Park, _x000D_Asansol, Pin - 713302, Dist- Paschim Bardhaman, (W.B).</td>
+	            	            <td>emp_img/data_sanmarg-645-AbhayGiri-abhay giri.jpg</td>
+	            	            <td></td>
+	            	            <td>B + </td>
+	            	            <td></td>
+	            	            <td>7</td>
+	            	            <td>Editorial </td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td>temp/Abhay  Giri.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1355</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>336</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44555.724305556</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td>user</td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>BHARAT   PASWAN</td>
+	            	            <td>8798299967</td>
+	            	            <td>8617540184</td>
+	            	            <td></td>
+	            	            <td>SANTA DANGAL, NIMTALLA, BURNPUR,_x000D_
+ PASCHIM BURDWAN, PIN : 713325</td>
+	            	            <td>emp_img/data_sanmarg-920-BHARATPASWAN-Bharat Paswan.jpeg</td>
+	            	            <td>10.03.1984</td>
+	            	            <td>B + </td>
+	            	            <td></td>
+	            	            <td>6</td>
+	            	            <td>Editorial </td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/BHARAT   PASWAN.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1354</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>335</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.902083333</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Amlesh Kumar  Prasad</td>
+	            	            <td>9851892290</td>
+	            	            <td>9333100575</td>
+	            	            <td></td>
+	            	            <td>Ushagaram, pureasha colony, Prantik apartment f/n 16, Asansol.</td>
+	            	            <td>emp_img/data_sanmarg-103-AmleshKumarPrasad-Amlesh Kumar Prasad.jpg</td>
+	            	            <td>05.07.1978</td>
+	            	            <td>AB+</td>
+	            	            <td></td>
+	            	            <td>5</td>
+	            	            <td>Editorial </td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Amlesh Kumar  Prasad.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1353</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>334</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.902083333</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Satish prasad  Gupta</td>
+	            	            <td>9064059495</td>
+	            	            <td>8250203990</td>
+	            	            <td></td>
+	            	            <td>s/o Lt B P Gupta . ShivLal Dangal, south Dhadka_x000D_
+ Asansol- 2 paschim Burdwan West Bengal </td>
+	            	            <td>emp_img/data_sanmarg-768-SatishprasadGupta-SAtish Prasad Gupta.jpeg</td>
+	            	            <td>01.05.1965</td>
+	            	            <td>O + </td>
+	            	            <td></td>
+	            	            <td>4</td>
+	            	            <td>Editorial </td>
+	            	            <td>Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Satish prasad  Gupta.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1352</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>333</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.902083333</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Binod Kumar Jaiswal</td>
+	            	            <td>9832166512</td>
+	            	            <td>9332185842</td>
+	            	            <td></td>
+	            	            <td>DR.  R. R. Road Rajbari , Raniganj , Pin - 713358</td>
+	            	            <td>emp_img/data_sanmarg-375-BinodKumarJaiswal-Binod kr jaiswal.jpeg</td>
+	            	            <td>16.09.1978</td>
+	            	            <td>O + </td>
+	            	            <td></td>
+	            	            <td>3</td>
+	            	            <td>Editorial </td>
+	            	            <td>District Correspondent</td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/Binod Kumar Jaiswal.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1351</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>332</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.902083333</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>BIJOY SHANKAR BIKUJ</td>
+	            	            <td>7430915414</td>
+	            	            <td>9239032120</td>
+	            	            <td></td>
+	            	            <td>ADDRESS : R.K. ROY ROAD, WEST ISMILE, ASANSOL - 713301 (W.B.)</td>
+	            	            <td>emp_img/data_sanmarg-710-BIJOYSHANKARBIKUJ-Bijoy Shankar Bikuj.jpeg</td>
+	            	            <td>12.09.1957</td>
+	            	            <td>A + </td>
+	            	            <td></td>
+	            	            <td>2</td>
+	            	            <td>Editorial </td>
+	            	            <td>Sub-Editor </td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/BIJOY SHANKAR BIKUJ.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1350</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>331</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.902083333</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>GOPAL KUMAR  SINGH</td>
+	            	            <td>9836674800</td>
+	            	            <td>8617849109</td>
+	            	            <td></td>
+	            	            <td>Bograchati , G.M Banglow Campus, PO - Devchand Nagar Pin - 713332, Paschim Burdwan (W.B)</td>
+	            	            <td>emp_img/data_sanmarg-1000-GOPALKUMARSINGH-Gopal Kumar Singh.jpeg</td>
+	            	            <td>10.05.1977</td>
+	            	            <td>O + </td>
+	            	            <td></td>
+	            	            <td>1</td>
+	            	            <td>Editorial </td>
+	            	            <td>Bureau Chief </td>
+	            	            
+	            	            <td>44287</td>
+	            	            <td>44651</td>
+	            	            <td>temp/GOPAL KUMAR  SINGH.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td>1349</td>
+	            	            <td>1</td>
+	            	            <td>4</td>
+	            	            <td>330</td>
+	            	            <td>6</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>0000-00-00 00:00:00.000000</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	             <td> 44574.902083333</td>
+	            	              <td></td>
+	            	            <td></td>
+	            	            <td></td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Manoj Mahata</td>
+	            	            <td>89678454545</td>
+	            	            <td>89678454545</td>
+	            	            <td>manoj@gmail.com</td>
+	            	            <td>Medinipur ,WestBengal</td>
+	            	            <td>img_man3.jpg</td>
+	            	            <td>1997-07-02</td>
+	            	            <td>A+</td>
+	            	            <td>2022-03-02</td>
+	            	            <td>155</td>
+	            	            <td>It Department</td>
+	            	            <td>Web Developer</td>
+	            	            
+	            	            <td>2022-03-02</td>
+	            	            <td>2025-01-01</td>
+	            	            <td>temp/Manoj Mahata.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>admin</td>
+	            	            <td></td>
+	            	            <td>0</td>
+	            	            <td>0</td>
+	            	            <td></td>
+	            	            <td>Sanmarg</td>
+	            	            <td>0</td>
+	            	            <td>0</td>
+	            	            <td>2022-03-15 17:30:44.637684</td>
+	            	            <td></td>
+	            	            <td>on way</td>
+	            	             <td></td>
+	            	              <td></td>
+	            	            <td>admin</td>
+	            	            <td>admin</td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Mohit Sharma</td>
+	            	            <td>96969696</td>
+	            	            <td>89678454545</td>
+	            	            <td>mohit@gmail.com</td>
+	            	            <td>Medinipur ,WestBengal</td>
+	            	            <td>img_man1.jpg</td>
+	            	            <td>2022-03-22</td>
+	            	            <td>AB+</td>
+	            	            <td>2022-03-10</td>
+	            	            <td>444</td>
+	            	            <td>It Department</td>
+	            	            <td>Web Developer</td>
+	            	            
+	            	            <td>2022-03-02</td>
+	            	            <td>2025-01-02</td>
+	            	            <td></td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td></td>
+	            	            <td></td>
+	            	            <td>0</td>
+	            	            <td>0</td>
+	            	            <td></td>
+	            	            <td>Saraswati Print Factory Pvt. Ltd.</td>
+	            	            <td>0</td>
+	            	            <td>0</td>
+	            	            <td>2022-03-16 11:03:41.216684</td>
+	            	            <td></td>
+	            	            <td>on way</td>
+	            	             <td></td>
+	            	              <td></td>
+	            	            <td>user</td>
+	            	            <td>user</td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>aloke ranjan barik</td>
+	            	            <td>y45645646</td>
+	            	            <td>89678454545</td>
+	            	            <td>aloke@gmail.com</td>
+	            	            <td>kakdeep</td>
+	            	            <td>img_man3.jpg</td>
+	            	            <td>2022-03-01</td>
+	            	            <td>A+</td>
+	            	            <td>2022-03-02</td>
+	            	            <td>125</td>
+	            	            <td>It Department</td>
+	            	            <td>Web Developer</td>
+	            	            
+	            	            <td>2022-03-02</td>
+	            	            <td>2022-03-10</td>
+	            	            <td>temp/alokebarik.png</td>
+	            	            <td>yes</td>
+	            	            <td>unactive</td>
+	            	            <td>admin</td>
+	            	            <td></td>
+	            	            <td>0</td>
+	            	            <td>0</td>
+	            	            <td></td>
+	            	            <td>Art Printing House Pvt. Ltd.</td>
+	            	            <td>0</td>
+	            	            <td>0</td>
+	            	            <td>2022-03-16 11:05:47.280394</td>
+	            	            <td></td>
+	            	            <td>cancel</td>
+	            	             <td></td>
+	            	              <td></td>
+	            	            <td>user</td>
+	            	            <td>user</td>
+	            	       </tr></table>

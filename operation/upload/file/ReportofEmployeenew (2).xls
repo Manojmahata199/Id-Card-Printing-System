@@ -1,0 +1,417 @@
+
+
+
+<table style="text-align:center;">
+	   <tr>
+	            <td>name</td>
+	            <td>Mobile</td>
+	            <td>Emargency No</td>
+	            <td>Email</td>
+	            <td>address</td>
+	            <td>image</td>
+	            <td>Date Of Birth</td>
+	            <td>Blood Group</td>
+	            <td>Joining Date</td>
+	            <td>Employee Id</td>
+	            <td>Department</td>
+	            <td>Designation</td>	            
+	            <td>Date Of Issue </td>
+	            <td>Date of Expiry</td>
+	            <td>Qr Image</td>
+	            <td>Is Resign</td>
+	            <td>Status</td>
+	            <td>Add By</td>
+	            <td>Status Id</td>
+	            <td>Printed</td>
+	            <td>Print No</td>
+	            <td>Employee data Id</td>
+	            <td>Company Id</td>
+	            <td>Qr Generated</td>
+	            <td>approved</td>
+	            <td>Printed Date</td>
+	            <td>Reason for Duplicate</td>
+	            <td>duplicate_by_snapshot</td>
+	            <td>Card status</td>
+	            <td>card status position date time</td>
+	            <td>card status position chang by</td>
+	            <td>password</td>
+	            <td>emp_type</td>
+	            <td>update_by_name</td>
+	            <td>update_reason</td>
+	            <td>update_by_type</td>
+	            <td>update_date</td>
+	            <td>update_day</td>
+	            <td>img_Update_by</td>
+	            <td>card_status_position_change_by_name</td>
+                   <td>card_status_position_change_by_id</td>
+                   <td>update_by_person_emp_id</td>
+
+
+
+
+
+
+
+
+
+	   </tr><tr>
+	            	            
+	            	            <td>superadmin</td>
+	            	            <td>9999999999</td>
+	            	            <td>9999999999</td>
+	            	            <td>superadmin@gmail.com</td>
+	            	            <td>superadmin address</td>
+	            	            <td>img3.jfif</td>
+	            	            <td>1997-01-01</td>
+	            	            <td>AB+</td>
+	            	            <td>2022-03-01</td>
+	            	            <td>SA155</td>
+	            	            <td>It Department</td>
+	            	            <td>System Adminstration</td>
+	            	            
+	            	            <td>2022-03-02</td>
+	            	            <td>2025-01-01</td>
+	            	            <td>superadmin.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>superadmin</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>8</td>
+	            	            <td>1</td>
+	            	            <td>Sanmarg</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>2022-03-29 15:02:43</td>
+	            	            <td>Reason is First one is lost</td>
+	            	            <td></td>
+	            	            <td>delivered</td>
+	            	            <td>2022-03-29 15:02:43</td>
+	            	            <td>superadmin</td>
+	            	            <td>superadmin192</td>
+	            	            <td>superadmin</td>
+	            	            <td>superadmin</td>
+	            	            <td>fdsfsdfs</td>
+	            	            <td>superadmin</td>
+	            	            <td>2022-03-29 15:17:15</td>
+	            	            <td>Tuesday</td>
+	            	            <td>none</td>
+	            	            <td>superadmin</td>
+                                    <td>SA155</td>
+                                    <td>SA155</td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>hr</td>
+	            	            <td>9999999999</td>
+	            	            <td>9999999999</td>
+	            	            <td>hr@gmail.com</td>
+	            	            <td>superadmin address</td>
+	            	            <td>img3.jfif</td>
+	            	            <td>1997-01-01</td>
+	            	            <td>AB+</td>
+	            	            <td>2022-03-01</td>
+	            	            <td>HR100</td>
+	            	            <td>It Department</td>
+	            	            <td>System Adminstration</td>
+	            	            
+	            	            <td>2022-03-02</td>
+	            	            <td>2025-01-01</td>
+	            	            <td>hr.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>superadmin</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>5</td>
+	            	            <td>1</td>
+	            	            <td>Sanmarg</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>2022-03-29 15:15:04</td>
+	            	            <td>test</td>
+	            	            <td></td>
+	            	            <td>on way</td>
+	            	            <td>2022-03-29 15:15:04</td>
+	            	            <td>superadmin</td>
+	            	            <td>hr192</td>
+	            	            <td>hr</td>
+	            	            <td>superadmin</td>
+	            	            <td>test</td>
+	            	            <td>superadmin</td>
+	            	            <td>2022-03-29 14:49:37</td>
+	            	            <td>Tuesday</td>
+	            	            <td>none</td>
+	            	            <td>superadmin</td>
+                                    <td>SA155</td>
+                                    <td>SA155</td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Jyoti Narayan</td>
+	            	            <td>9432435506</td>
+	            	            <td>9831071920</td>
+	            	            <td>xxx@gmail.com</td>
+	            	            <td>3A, Amiya Hazra Lane KOL - 16</td>
+	            	            <td>Jyoti Narayan.jpeg</td>
+	            	            <td>1995-03-06</td>
+	            	            <td>B+</td>
+	            	            <td>0001-01-01</td>
+	            	            <td>107</td>
+	            	            <td>Editorial</td>
+	            	            <td>Sr.Sub-Editor</td>
+	            	            
+	            	            <td>0001-01-01</td>
+	            	            <td>0001-01-01</td>
+	            	            <td>Jyoti Narayan.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>superadmin</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>3</td>
+	            	            <td>1</td>
+	            	            <td>Sanmarg</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>2022-03-29 17:43:46</td>
+	            	            <td>test</td>
+	            	            <td></td>
+	            	            <td>on way</td>
+	            	            <td>2022-03-29 17:43:46</td>
+	            	            <td>superadmin</td>
+	            	            <td>user</td>
+	            	            <td>user</td>
+	            	            <td>superadmin</td>
+	            	            <td>test</td>
+	            	            <td>superadmin</td>
+	            	            <td>2022-03-29 19:02:17</td>
+	            	            <td>Tuesday</td>
+	            	            <td>none</td>
+	            	            <td>superadmin</td>
+                                    <td>SA155</td>
+                                    <td>SA155</td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Piyush Nath Tiwari</td>
+	            	            <td>8910442586</td>
+	            	            <td>8777375056</td>
+	            	            <td>xxx@gmail.com</td>
+	            	            <td> 6/1 shiv gopal banerjee lane salkia. Pin - 711106</td>
+	            	            <td>Piyush Nath Tiwari.jpeg</td>
+	            	            <td>1997-04-29</td>
+	            	            <td></td>
+	            	            <td>0001-01-01</td>
+	            	            <td>76</td>
+	            	            <td>Sales </td>
+	            	            <td>Sales Executive </td>
+	            	            
+	            	            <td>0001-01-01</td>
+	            	            <td>0001-01-01</td>
+	            	            <td>Piyush Nath Tiwari.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>superadmin</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>7</td>
+	            	            <td>1</td>
+	            	            <td>Sanmarg</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>2022-03-29 17:58:46</td>
+	            	            <td>test</td>
+	            	            <td></td>
+	            	            <td>on way</td>
+	            	            <td>2022-03-29 17:58:46</td>
+	            	            <td>superadmin</td>
+	            	            <td>user</td>
+	            	            <td>user</td>
+	            	            <td>superadmin</td>
+	            	            <td>test</td>
+	            	            <td>superadmin</td>
+	            	            <td>2022-03-30 10:20:38</td>
+	            	            <td>Wednesday</td>
+	            	            <td>none</td>
+	            	            <td>superadmin</td>
+                                    <td>SA155</td>
+                                    <td>SA155</td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Priyanka Shaw</td>
+	            	            <td>8584042649</td>
+	            	            <td>9874225609</td>
+	            	            <td>xxx@gmail.com</td>
+	            	            <td>44/3 sanatan mistry lane oriya para ,Howrah 711106</td>
+	            	            <td>Priyanka Shaw.jpeg</td>
+	            	            <td>1998-01-30</td>
+	            	            <td> B+</td>
+	            	            <td>0001-01-01</td>
+	            	            <td>176</td>
+	            	            <td>Sales </td>
+	            	            <td>Sales Executive </td>
+	            	            
+	            	            <td>0001-01-01</td>
+	            	            <td>0001-01-01</td>
+	            	            <td>Priyanka Shaw.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>superadmin</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>5</td>
+	            	            <td>1</td>
+	            	            <td>Sanmarg</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>2022-03-29 17:43:03</td>
+	            	            <td>test</td>
+	            	            <td></td>
+	            	            <td>on way</td>
+	            	            <td>2022-03-29 17:43:03</td>
+	            	            <td>superadmin</td>
+	            	            <td>user</td>
+	            	            <td>user</td>
+	            	            <td>superadmin</td>
+	            	            <td>test</td>
+	            	            <td>superadmin</td>
+	            	            <td>2022-03-30 11:23:55</td>
+	            	            <td>Wednesday</td>
+	            	            <td>none</td>
+	            	            <td>superadmin</td>
+                                    <td>SA155</td>
+                                    <td>SA155</td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Jamshed Khan</td>
+	            	            <td>9811994147</td>
+	            	            <td>9899588127</td>
+	            	            <td>xxx@gmail.com</td>
+	            	            <td>786D, Ganesh Nagar part 2, Shakarpur Delhi -92</td>
+	            	            <td>Jamshed Khan Pic.jpeg</td>
+	            	            <td>1969-07-14</td>
+	            	            <td>O+</td>
+	            	            <td>0001-01-01</td>
+	            	            <td>47</td>
+	            	            <td>Editorial</td>
+	            	            <td>Consulting Editor</td>
+	            	            
+	            	            <td>0001-01-01</td>
+	            	            <td>0001-01-01</td>
+	            	            <td>Jamshed Khan.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>superadmin</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>Sanmarg</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>44654.61615735</td>
+	            	            <td>Reason is First one is lost</td>
+	            	            <td></td>
+	            	            <td>on way</td>
+	            	            <td> 44654.61615735</td>
+	            	            <td>superadmin</td>
+	            	            <td>user</td>
+	            	            <td>user</td>
+	            	            <td>superadmin</td>
+	            	            <td>test</td>
+	            	            <td>superadmin</td>
+	            	            <td>2022-03-30 11:23:28</td>
+	            	            <td>Wednesday</td>
+	            	            <td>none</td>
+	            	            <td>superadmin</td>
+                                    <td>SA160</td>
+                                    <td>SA155</td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Kanchan</td>
+	            	            <td>7678436087</td>
+	            	            <td>7838605254</td>
+	            	            <td>xx@gmail.com</td>
+	            	            <td>51-A, Arjun Nagar, Safdarjung Enclave, New Delhi 110029.</td>
+	            	            <td>img4.png</td>
+	            	            <td>1990-04-19</td>
+	            	            <td>B+</td>
+	            	            <td>0001-01-01</td>
+	            	            <td>000</td>
+	            	            <td>Reporter</td>
+	            	            <td>Reporter</td>
+	            	            
+	            	            <td>0001-01-01</td>
+	            	            <td>0001-01-01</td>
+	            	            <td>Kanchan.png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>superadmin</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>2</td>
+	            	            <td>1</td>
+	            	            <td>Tehelka.com Pvt.Ltd.</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>2022-03-29 18:44:02</td>
+	            	            <td>test</td>
+	            	            <td>1</td>
+	            	            <td>on way</td>
+	            	            <td>2022-03-29 18:44:02</td>
+	            	            <td>superadmin</td>
+	            	            <td>user</td>
+	            	            <td>user</td>
+	            	            <td>superadmin</td>
+	            	            <td>test</td>
+	            	            <td>superadmin</td>
+	            	            <td>2022-03-30 11:19:26</td>
+	            	            <td>Wednesday</td>
+	            	            <td>none</td>
+	            	            <td>superadmin</td>
+                                    <td>SA155</td>
+                                    <td>SA155</td>
+	            	       </tr><tr>
+	            	            
+	            	            <td>Isha Kumari </td>
+	            	            <td>8910557750</td>
+	            	            <td>8583905880</td>
+	            	            <td>xx@gmail.com</td>
+	            	            <td>Sarkarpool, Shibrampur Rd, kolkata 700143</td>
+	            	            <td>img3.jfif</td>
+	            	            <td>1998-12-13</td>
+	            	            <td>B+</td>
+	            	            <td>0001-01-01</td>
+	            	            <td>149</td>
+	            	            <td>Marketing</td>
+	            	            <td>Sales Executive</td>
+	            	            
+	            	            <td>2022-04-01</td>
+	            	            <td>2023-03-31</td>
+	            	            <td>Isha Kumari .png</td>
+	            	            <td>no</td>
+	            	            <td>active</td>
+	            	            <td>superadmin</td>
+	            	            <td>1</td>
+	            	            <td>1</td>
+	            	            <td>3</td>
+	            	            <td>1</td>
+	            	            <td>Sanmarg</td>
+	            	            <td>1</td>
+	            	            <td>0</td>
+	            	            <td>2022-03-29 19:17:01</td>
+	            	            <td>test</td>
+	            	            <td>1</td>
+	            	            <td>on way</td>
+	            	            <td>2022-03-29 19:17:01</td>
+	            	            <td>superadmin</td>
+	            	            <td>user</td>
+	            	            <td>user</td>
+	            	            <td>superadmin</td>
+	            	            <td>test</td>
+	            	            <td>superadmin</td>
+	            	            <td>2022-03-30 10:20:22</td>
+	            	            <td>Wednesday</td>
+	            	            <td>none</td>
+	            	            <td>superadmin</td>
+                                    <td>SA155</td>
+                                    <td>SA155</td>
+	            	       </tr></table>
