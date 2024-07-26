@@ -2,8 +2,8 @@
 
 $host="localhost";
 $username="root";
-$password="myNew2Password";
-$dbname="nidcard_222";
+$password="########";
+$dbname="##############";
 
 // for database connection 
 
